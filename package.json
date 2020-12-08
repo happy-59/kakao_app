@@ -16,14 +16,13 @@
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
-    "sass-loader": "^10.1.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://happy-59.github.io/kakao_react"
+  "homepage": "http://wlgus9233.github.io/kakao_react"
 }
