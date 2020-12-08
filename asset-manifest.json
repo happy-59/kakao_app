@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kakao_app/static/css/main.c42d59ed.chunk.css",
-    "main.js": "/kakao_app/static/js/main.9df6d587.chunk.js",
-    "main.js.map": "/kakao_app/static/js/main.9df6d587.chunk.js.map",
+    "main.css": "/kakao_app/static/css/main.103f2f63.chunk.css",
+    "main.js": "/kakao_app/static/js/main.4d7e7c39.chunk.js",
+    "main.js.map": "/kakao_app/static/js/main.4d7e7c39.chunk.js.map",
     "runtime-main.js": "/kakao_app/static/js/runtime-main.c4f9829d.js",
     "runtime-main.js.map": "/kakao_app/static/js/runtime-main.c4f9829d.js.map",
     "static/js/2.d07384b7.chunk.js": "/kakao_app/static/js/2.d07384b7.chunk.js",
     "static/js/2.d07384b7.chunk.js.map": "/kakao_app/static/js/2.d07384b7.chunk.js.map",
     "index.html": "/kakao_app/index.html",
-    "static/css/main.c42d59ed.chunk.css.map": "/kakao_app/static/css/main.c42d59ed.chunk.css.map",
+    "static/css/main.103f2f63.chunk.css.map": "/kakao_app/static/css/main.103f2f63.chunk.css.map",
     "static/js/2.d07384b7.chunk.js.LICENSE.txt": "/kakao_app/static/js/2.d07384b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c4f9829d.js",
     "static/js/2.d07384b7.chunk.js",
-    "static/css/main.c42d59ed.chunk.css",
-    "static/js/main.9df6d587.chunk.js"
+    "static/css/main.103f2f63.chunk.css",
+    "static/js/main.4d7e7c39.chunk.js"
   ]
 }
