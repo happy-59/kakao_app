@@ -21,8 +21,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://wlgus9233.github.io/kakao_react"
+  "homepage": "http://happy-59.github.io/kakao_app"
 }
